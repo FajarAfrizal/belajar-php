@@ -5,15 +5,11 @@
 	  <body>   
 	 <!-- penanganan form dengan method POST -->
 	<form method="post" action="tampil.php">
-		<label> Nama Siswa</label><br/>
+		<label>Masukkan Nama</label><br/>
 		<input type="text" name="nama"><br/>
-		<label>Asal Sekolah</label><br/>
-		<input type="text" name="asal"><br/>
-        <label>No.Telpon</label><br/>
-        <input type="text" Name="nohp"><br/>
-		<input type="submit" value="daftar"><br/>
-        
-        
+		<label>Masukkan Usia</label><br/>
+		<input type="text" name="usia"><br/>	
+		<input type="submit" value="oke">
 	</form>
 	
 	  </body>
