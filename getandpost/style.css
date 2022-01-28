@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&display=swap');
+*{font-family: 'Gemunu Libre', sans-serif;}
+
+body {
+    background-color: darkgrey;
+    color: black;
+    margin-top:50px;
+    margin-left: 750px;
+    margin-top: 50px;
+    font-size: 50px;
+}
+input[type="text"] {
+    width: 500px;
+    height: 50px;
+}
+select[name="jeniskelamin"]{
+  width: 240px;
+  height: 50px;  
+}
+option [value="Laki - laki"] {
+  width: 240px;
+  height: 50px;
+}

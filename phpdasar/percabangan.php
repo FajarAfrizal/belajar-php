@@ -34,7 +34,7 @@ if ($bil % 2 == 0){ //Kondisi
     }elseif ($nilai >= 70){
         echo "C"($nilai >=70);
     }else{
-        echo "D"($nilai >=70);
+        echo "D";
     }
 /*Ubah nilai jika ingin melihat perubahannya */
 ?>
